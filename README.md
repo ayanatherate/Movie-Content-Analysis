@@ -1,4 +1,4 @@
 # MovieVizWeb
-A visual analysis of World Movies in the form of an interactive Power BI dashboard, rendered in HTML.
+*** Currently Ongoing ***
 
-Deployed using Github Pages: <a href="https://ayanatherate.github.io/MovieVizWeb/"> Click Here </a>
+As of now, an intermediate Visualization/Analysis has been published in the form of a Power BI report, deployed using Github Pages: <a href="https://ayanatherate.github.io/MovieVizWeb/"> Click Here </a>
